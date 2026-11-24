@@ -1,0 +1,1 @@
+{"description":"One Emoji, One Dream Vacation — a single emoji (Mount Fuji at sunrise) written to /output/entry.txt","license":"MIT","main":"main.ts","name":"makefun-one-emoji-dream-vacation","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
